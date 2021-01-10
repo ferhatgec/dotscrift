@@ -1,0 +1,17 @@
+# $tandard $hell theme for Scrift 0.1.8-beta-4
+# by: @ferhatgec (github.com/ferhatgec)
+
+[CUSTOMIZE]
+felog_cleaner 100
+welcome_emoji 🤔
+bg_color 12
+ascii_art_color no_thanks
+scrift_theme classic
+input_customize $ 
+welcome_message no_thanks_all
+local_git_branch yes
+scrift_setup no_thanks
+auto_clear 60
+date_info yes
+
+[PROMPT] @input_sign@[0;97m] 

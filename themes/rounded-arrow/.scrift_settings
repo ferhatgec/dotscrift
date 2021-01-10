@@ -1,0 +1,23 @@
+# Rounded Arrow theme for Scrift 0.1.8-beta-4
+# by: @ferhatgec (github.com/ferhatgec)
+
+[CUSTOMIZE]
+felog_cleaner 100
+welcome_emoji 🤔
+bg_color 12
+ascii_art_color no_thanks
+scrift_theme halloween
+input_customize 
+welcome_message no_thanks_all
+local_git_branch yes
+scrift_setup no_thanks
+auto_clear 60
+date_info yes
+sign_1 @
+sign_2  
+sign_3 ╭─ 
+sign_4 ╰>  
+sign_5 on
+sign_6  
+
+[PROMPT] @sign_3@[1;93m] @username@[1;94m] @folder@[1;96m] @whitespace@[1;36m] @sign_5@[1;92m] @sign_6@[1;91m]  @branch@[1;91m] @clock@[0;91m] @whspace@[1;91m] @incognito@[1;91m] @newline@[0;36m] @sign_4@[1;92m] @input_sign@[0;33m]

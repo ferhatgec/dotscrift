@@ -1,0 +1,19 @@
+# Colorized theme for Scrift 0.1.8-beta-4
+# by: @ferhatgec (github.com/ferhatgec)
+
+[CUSTOMIZE]
+felog_cleaner 100
+welcome_emoji :thinking_face:
+bg_color 12
+ascii_art_color random
+scrift_theme default
+input_customize $# 
+welcome_message yes
+local_git_branch yes
+scrift_setup no_thanks
+auto_clear 40
+date_info yes
+sign_1 @
+sign_2 :~
+
+[PROMPT] @username@[1;34m] @sign_1@[1;36m] @hostname@[1;35m] @sign_2@[1;36m] @directory@[1;33m] @whitespace@[1;36m] @branch@[1;36m] @clock@[1;93m] @whspace@[1;36m] @incognito@[1;96m] @newline@[1;95m] @input_sign@[1;31m]
